@@ -7,3 +7,11 @@
 ![image](https://github.com/jokerreton/barrageOwner/blob/master/example/oldVersion.jpg)
 ![image](https://github.com/jokerreton/barrageOwner/blob/master/example/newVersion.jpg)
 ![image](https://github.com/jokerreton/barrageOwner/blob/master/example/space.jpg)
+
+**存在BUG**
+
+某些用户不成功，未找到原因
+
+相同的弹幕还没有刷选
+
+有的视频页因为B站服务端无法注入js
