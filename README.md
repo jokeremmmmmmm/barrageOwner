@@ -4,6 +4,6 @@
 兼容新旧版本B站
 
 右键弹幕，点击最下即可
-![image](https://github.com/jokerreton/barrageOwner/blob/master/example/oldVsion.jpg)
-![image](https://github.com/jokerreton/barrageOwner/blob/master/example/newVsion.jpg)
+![image](https://github.com/jokerreton/barrageOwner/blob/master/example/oldVersion.jpg)
+![image](https://github.com/jokerreton/barrageOwner/blob/master/example/newVersion.jpg)
 ![image](https://github.com/jokerreton/barrageOwner/blob/master/example/space.jpg)
