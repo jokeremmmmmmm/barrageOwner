@@ -1,0 +1,12 @@
+{
+    "name": "getBarrageOwner",
+    "version": "0.8",
+    "description": "get barrage owner",
+    "permissions": ["cookies", "tabs", "http://*/*", "https://*/*", "contextMenus", "notifications", "storage"],
+    "content_scripts": [{
+        "matches": ["<all_urls>"],
+        "js": ["js/jquery-3.1.0.js", "js/getBarrageOwner.js"],
+        "run_at": "document_start"
+    }],
+    "manifest_version": 2
+}
